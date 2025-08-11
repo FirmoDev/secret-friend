@@ -61,7 +61,7 @@ body {
     color: var(--color-white);
 }
 
-.section-title {
+#section-title {
     font-family: "Inter", serif;
     font-size: 36px;
     font-weight: 700;
